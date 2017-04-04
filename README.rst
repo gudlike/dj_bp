@@ -9,11 +9,11 @@ Django startbootstrap boilerplate
 截屏
 -----------
 
-.. image:: https://raw.githubusercontent.com/django-admin-bootstrap/django-admin-bootstrap/master/screenshots/screenshot.png
-    :target: https://github.com/django-admin-bootstrap/django-admin-bootstrap/tree/master/screenshots
+.. image:: https://raw.githubusercontent.com/gudlike/dj_bp/master/screenshots/matplotlib.png
+    :target: https://github.com/gudlike/dj_bp/tree/master/screenshots
     :alt: See Screenshots
 
-`More screenshots <https://github.com/django-admin-bootstrap/django-admin-bootstrap/tree/master/screenshots>`_
+`More screenshots <https://github.com/gudlike/dj_bp/tree/master/screenshots>`_
 
 安装指南
 -------
@@ -21,6 +21,8 @@ Django startbootstrap boilerplate
 from pypi (recommended) ::
 
     $ pip install django
+	$ pip install tensorflow
+	$ pip install matplotlib
 
 
 TODO
