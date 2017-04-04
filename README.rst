@@ -26,8 +26,8 @@ Django startbootstrap boilerplate
 from pypi (recommended) ::
 
     $ pip install django
-	$ pip install tensorflow
-	$ pip install matplotlib
+    $ pip install tensorflow
+    $ pip install matplotlib
 
 
 TODO
