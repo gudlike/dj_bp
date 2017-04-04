@@ -9,7 +9,7 @@ Django startbootstrap boilerplate
 截屏
 -----------
 
-.. image:: https://raw.githubusercontent.com/gudlike/dj_bp/master/screenshots/matplotlib.png
+.. image:: https://github.com/gudlike/dj_bp/blob/master/screenshots/matplotlib.jpg
     :target: https://github.com/gudlike/dj_bp/tree/master/screenshots
     :alt: See Screenshots
 
