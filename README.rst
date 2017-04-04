@@ -4,7 +4,12 @@ Django startbootstrap boilerplate
 介绍
 -----------
 
-使用django...
+使用django和startbootstrap做一个数据分析的项目，包含三个app
+
+- 可视化部分，简单表格使用startbootstrap绘制，复杂图形使用matplotlib
+- 集群管理部分，使用kubernetes+saltstack部署和管理Spark+Tensorflow集群
+- 爬虫部分，收集数据
+
 
 截屏
 -----------
